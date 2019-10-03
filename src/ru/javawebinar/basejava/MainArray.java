@@ -63,6 +63,7 @@ public class MainArray {
                 default:
                     System.out.println("Неверная команда.");
                     break;
+                    //
             }
         }
     }
